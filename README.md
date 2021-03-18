@@ -1,17 +1,3 @@
+# Aplicación To Do en node
 
-
-
-#Aplicacion de comandos
-
-
-
-Ejercicio del curso de node 
-
-recuerden instalar los paquetes de node
-
-```
-
-npm install
-
-
-``
+Aplicación en Node.js manejada por linea de comandos.
